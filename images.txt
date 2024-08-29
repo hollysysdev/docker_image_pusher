@@ -1,4 +1,1 @@
-#支持私库
 thingsboard/tb-node:3.5.1
-#支持指定架构
---platform=linux/amd64 thingsboard/tb-node:3.5.1
