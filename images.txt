@@ -1,1 +1,1 @@
-wurstmeister/kafka:2.12-2.2.1
+thingsboard/tb-js-executor:3.7.0
